@@ -7,7 +7,7 @@
     tools:context="com.example.orafa.androidexercicioasynctasksjson.MainActivity">
 
     <ListView
-        android:id="@+id/list_view_pokemon_pokemons"
+        android:id="@+id/list_view_pokemon"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
